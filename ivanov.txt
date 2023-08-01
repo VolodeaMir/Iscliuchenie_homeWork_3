@@ -1,0 +1,2 @@
+ivanov ivan ivanovic, 11.11.1989, 654321, m
+ivanov ivan sergeevichi, 01.01.1980, 987654, m
